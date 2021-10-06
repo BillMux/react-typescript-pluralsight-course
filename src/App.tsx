@@ -1,10 +1,10 @@
-import "./styles/App.css";
-import StartQuiz from "./StartQuiz";
+import "./styles/App.scss";
+import QuizIntro from "./StartQuiz";
 
 function App() {
     return (
         <>
-            <StartQuiz />
+            <QuizIntro />
         </>
     );
 }

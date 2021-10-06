@@ -1,0 +1,10 @@
+@import './fonts.scss';
+
+body {
+	font-family: $font;
+	background-color: $white;
+}
+
+h1 {
+	font-size: $header-font-size;
+}
